@@ -1,0 +1,1 @@
+//Write a java program to find two elements in an array such that the difference between them is the largest
